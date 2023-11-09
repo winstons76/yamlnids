@@ -1,2 +1,5 @@
+# negeer alle csv files
 *.csv
+
+# negeer alle gegenereerde ML modellen
 *.pkl
