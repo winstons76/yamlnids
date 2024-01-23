@@ -3,3 +3,5 @@
 
 # negeer alle gegenereerde ML modellen
 *.pkl
+
+.ipynb_checkpoints
